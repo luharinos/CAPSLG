@@ -15,7 +15,7 @@ pandas==0.24.2
 Pillow==6.2.0
 pip-review==1.0
 pyparsing==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.8.0
 pytz==2019.1
 rebar==0.1
