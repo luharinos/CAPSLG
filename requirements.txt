@@ -19,7 +19,7 @@ PyPDF2==1.26.0
 python-dateutil==2.8.0
 pytz==2019.1
 rebar==0.1
-reportlab==3.5.21
+reportlab==3.5.55
 requests==2.21.0
 scikit-learn==0.21.0
 scipy==1.2.1
